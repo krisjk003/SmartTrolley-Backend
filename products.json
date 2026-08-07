@@ -1,0 +1,102 @@
+{
+  "MILK001": {
+    "name": "Amul Milk 500ml",
+    "price": 30,
+    "category": "Dairy"
+  },
+  "BREAD001": {
+    "name": "Britannia Bread",
+    "price": 45,
+    "category": "Bakery"
+  },
+  "MAGGI001": {
+    "name": "Maggi Noodles",
+    "price": 18,
+    "category": "Instant Food"
+  },
+  "RICE001": {
+    "name": "Rice 5kg",
+    "price": 420,
+    "category": "Groceries"
+  },
+  "OIL001": {
+    "name": "Fortune Sunflower Oil 1L",
+    "price": 165,
+    "category": "Cooking Oil"
+  },
+  "COKE001": {
+    "name": "Coca-Cola 750ml",
+    "price": 45,
+    "category": "Beverages"
+  },
+  "CHIPS001": {
+    "name": "Lay's Classic Chips",
+    "price": 20,
+    "category": "Snacks"
+  },
+  "BISCUIT001": {
+    "name": "Parle-G Biscuits",
+    "price": 10,
+    "category": "Biscuits"
+  },
+  "COOKIE001": {
+    "name": "Good Day Cookies",
+    "price": 35,
+    "category": "Biscuits"
+  },
+  "SALT001": {
+    "name": "Tata Salt 1kg",
+    "price": 28,
+    "category": "Groceries"
+  },
+  "SOAP001": {
+    "name": "Dove Soap",
+    "price": 45,
+    "category": "Personal Care"
+  },
+  "SHAMPOO001": {
+    "name": "Clinic Plus Shampoo",
+    "price": 135,
+    "category": "Personal Care"
+  },
+  "TOOTH001": {
+    "name": "Colgate Toothpaste",
+    "price": 95,
+    "category": "Personal Care"
+  },
+  "SUGAR001": {
+    "name": "Sugar 1kg",
+    "price": 52,
+    "category": "Groceries"
+  },
+  "TEA001": {
+    "name": "Tea Powder 250g",
+    "price": 145,
+    "category": "Beverages"
+  },
+  "COFFEE001": {
+    "name": "Coffee Powder 200g",
+    "price": 180,
+    "category": "Beverages"
+  },
+  "EGGS001": {
+    "name": "Eggs (12 Pack)",
+    "price": 84,
+    "category": "Dairy"
+  },
+  "BANANA001": {
+    "name": "Bananas (1 Dozen)",
+    "price": 60,
+    "category": "Fruits"
+  },
+  "APPLE001": {
+    "name": "Apple 1kg",
+    "price": 180,
+    "category": "Fruits"
+  },
+  "WATER001": {
+    "name": "Bisleri Water 1L",
+    "price": 20,
+    "category": "Beverages"
+  }
+}
